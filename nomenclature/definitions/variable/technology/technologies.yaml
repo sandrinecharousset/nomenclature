@@ -140,6 +140,10 @@ Capacity|Electricity|Wind|Onshore:
                 power installations
    unit: GW
 
+Capacity|Electricity|Electricity Storage:
+   description: Total installed capacity of energy storage systems, excl. hydro storage
+   unit: GW
+   
 Capital Cost|Electricity|Biomass|w/ CCS:
    description: Capital cost of a new biomass power plant with CCS
    unit: US$2010/kW
@@ -190,6 +194,10 @@ Capital Cost|Electricity|Wind|Offshore:
 
 Capital Cost|Electricity|Wind|Onshore:
    description: Capital cost of a new onshore wind power plants
+   unit: US$2010/kW
+
+Capital Cost|Electricity|Electricity Storage:
+   description: Capital cost of a new energy storage systems, excl. hydro storage
    unit: US$2010/kW
 
 Capital Cost|Gases|Biomass|w/o CCS:
